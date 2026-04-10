@@ -3,7 +3,7 @@
 **Author:** E. F. Perez-Eugenio  
 **ORCID:** [0009-0006-3228-4847](https://orcid.org/0009-0006-3228-4847)  
 **Date:** April 2026  
-**DOI:** [assigned by Zenodo upon release]  
+**DOI:** [10.5281/zenodo.19500605](https://doi.org/10.5281/zenodo.19500605)  
 **Extends:** Paper IV — DOI: [10.5281/zenodo.19216302](https://doi.org/10.5281/zenodo.19216302)
 
 ---
@@ -107,12 +107,12 @@ Coincides with [M:N] = 2+√2 ≈ 3.414 at 0.2% (within one error bar).
 
 ```bibtex
 @misc{PerezEugenio2026V,
-  author = {Perez-Eugenio, Erick F.},
+  author = {Perez-Eugenio, E. F.},
   title  = {Jones index of prime endomorphisms in the {Bost--Connes} system:
             higher invariants, fusion rules, and logarithmic corrections
             to black hole entropy},
   year   = {2026},
-  doi    = {[Zenodo DOI upon release]}
+  doi    = {10.5281/zenodo.19500605}
 }
 ```
 
