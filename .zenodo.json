@@ -1,0 +1,58 @@
+{
+  "title": "Jones index of prime endomorphisms in the Bost–Connes system: higher invariants, fusion rules, and logarithmic corrections to black hole entropy",
+  "description": "We prove that the Jones index of the prime endomorphisms ρ_p in the Bost–Connes system equals p, provide complete proofs via the Takesaki crossed product, and compute the higher invariants: abelian fusion rules (ρ_n ∘ ρ_m = ρ_nm), one-dimensional intertwiner spaces, and group-type Ocneanu invariants for p=2 (ℤ/2ℤ) and p=3 (ℤ/3ℤ). The Riemann zeta function is expressed as ζ(β) = ∏_p (1 − [M:N]_p^{−β})^{−1}. We connect the Bost–Connes subfactors with CFT₂ minimal models via the ADE classification: BC and Ising share Jones index [M:N]=2 but have inequivalent fusion categories. Motivated by Wang and He (arXiv:2603.07639, 2026), who demonstrated a quantitative BTZ dual for the critical Ising chain, we predict k_Ising ≠ 3/2 for the logarithmic correction coefficient to BTZ entropy at c=1/2.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-04-10",
+  "creators": [
+    {
+      "name": "Perez-Eugenio, Erick F.",
+      "affiliation": "Independent Researcher, León, Guanajuato, Mexico",
+      "orcid": "0009-0006-3228-4847"
+    }
+  ],
+  "keywords": [
+    "Jones index",
+    "Bost-Connes system",
+    "subfactors",
+    "conformal field theory",
+    "BTZ black hole",
+    "Riemann zeta function",
+    "fusion rules",
+    "Ocneanu invariants",
+    "ADE classification",
+    "operator algebras",
+    "logarithmic corrections",
+    "Ising model"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19216302",
+      "relation": "isPreviousVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.19202700",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.19202898",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "2603.07639",
+      "relation": "references",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "2603.13013",
+      "relation": "references",
+      "scheme": "arxiv"
+    }
+  ],
+  "notes": "Mathematical content verified via independent computational tools (4 instances without project context). All 20 references verified against published sources. Extends Paper IV (DOI: 10.5281/zenodo.19216302) with complete proofs and higher invariants."
+}

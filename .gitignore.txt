@@ -1,0 +1,42 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.Overleaf/
+
+# Temp / draft
+draft_*
+old_*
+backup_*
+*_old.*
+
+# Keep these
+!*.tex
+!*.pdf
+!*.json
+!*.md
+!LICENSE
+!.zenodo.json
